@@ -1,0 +1,68 @@
+CROSS-LINKING GUIDE FOR "DEAL KILLERS" BLOG POST
+================================================
+
+INTERNAL LINKS ADDED TO NEW POST (5 total)
+-------------------------------------------
+
+1. Section 1: Open Violations
+   Link: /blog/open-permits-violations-staten-island-home-sale
+   Text: "Open Permits and Violations: How They Affect Your Staten Island Home Sale"
+
+2. Section 2: Contract Dates
+   Link: /blog/what-can-delay-closing-home-sellers-new-york
+   Text: "What Can Delay a Closing for Home Sellers in New York?"
+
+3. Section 3: Inspection Issues
+   Link: /blog/handle-inspection-issues-seller-new-york
+   Text: "How to Handle Inspection Issues as a Seller in New York"
+
+4. Section 6: Title Surprises
+   Link: /blog/title-search-process-new-york-home-buyer
+   Text: "What Happens During the Title Process When You Buy a Home in New York"
+
+5. Protection Section (end)
+   Link: /blog/staten-island-home-buying-process
+   Text: "The Staten Island Home Buying Process: A Complete Step-by-Step Guide"
+
+
+RECOMMENDED BACKLINKS TO ADD TO EXISTING POSTS
+----------------------------------------------
+
+HIGH PRIORITY - Add links FROM these posts TO the new "Deal Killers" post:
+
+1. "Open Permits and Violations: How They Affect Your Staten Island Home Sale"
+   Add: "Learn about other common deal killers: 7 Staten Island Home Closing Deal Killers Your Real Estate Attorney Can Help You Avoid"
+   Link: /blog/staten-island-home-closing-deal-killers
+
+2. "How to Handle Inspection Issues as a Seller in New York"
+   Add: "For more closing challenges: 7 Common Deal Killers That Can Derail Your Closing"
+   Link: /blog/staten-island-home-closing-deal-killers
+
+3. "What Can Delay a Closing for Home Sellers in New York?"
+   Add: "Complete guide: 7 Home Closing Deal Killers and How to Avoid Them"
+   Link: /blog/staten-island-home-closing-deal-killers
+
+4. "The Staten Island Home Buying Process: A Complete Step-by-Step Guide"
+   Add: "Watch out for these 7 common deal killers that can derail your closing"
+   Link: /blog/staten-island-home-closing-deal-killers
+
+5. "The Staten Island Home Selling Process: A Step-by-Step Guide"
+   Add similar link about avoiding problems
+
+
+FILES CREATED
+-------------
+✓ staten-island-home-closing-deal-killers.html (original, no links)
+✓ staten-island-home-closing-deal-killers-WITH-LINKS.html (recommended version with internal links)
+✓ cross-linking-guide.txt (this file)
+
+
+WHAT YOU NEED TO DO
+-------------------
+1. Log into Breezy CMS at statenislandlaw.com
+2. Create new blog post
+3. Copy/paste content from: staten-island-home-closing-deal-killers-WITH-LINKS.html
+4. Set metadata from the comments at the top of the HTML file
+5. Publish the post
+6. Add backlinks to the 5 high-priority existing posts (see list above)
+7. Verify the page is live at: statenislandlaw.com/blog/staten-island-home-closing-deal-killers

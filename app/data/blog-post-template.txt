@@ -1,0 +1,136 @@
+HOW TO ADD A NEW BLOG POST
+===========================
+
+1. Open /workspace/app/data/blogPosts.ts
+2. Add a new object to the blogPosts array following this template:
+3. Save the file - Next.js will automatically rebuild
+
+TEMPLATE:
+---------
+
+{
+  slug: "your-post-url-slug",  // lowercase, dashes only, unique
+  title: "Your Blog Post Title",
+  description: "A brief description for SEO and previews (150-160 chars ideal)",
+  author: "Pete Weinman",
+  publishDate: "2026-05-04",  // YYYY-MM-DD format
+  updatedDate: "2026-05-04",  // Optional - only if you update it later
+  category: "Real Estate Law",  // or "Home Buying", "Legal Tips", etc.
+  tags: ["tag1", "tag2", "tag3"],  // For related posts and search
+  image: "https://breezy-sites.s3.amazonaws.com/site_images/YOUR_IMAGE.jpg",  // Optional
+  imageAlt: "Description of image for accessibility",  // Optional
+  content: `
+# Your Main Heading
+
+Your introduction paragraph goes here.
+
+## Section Heading
+
+Content for this section. You can use **bold** and *italic* text.
+
+### Subsection
+
+- Bullet point 1
+- Bullet point 2
+- Bullet point 3
+
+You can also add [links](https://example.com) inline.
+
+## Another Section
+
+More content here.
+
+**Tips:**
+- Keep each section focused
+- Use headers for structure
+- Add links to your contact page
+- Include a call-to-action
+
+## Conclusion
+
+Wrap up your post and invite readers to contact you.
+
+*Ready to get started? [Contact us](/about) today.*
+  `
+},
+
+
+MARKDOWN SYNTAX SUPPORTED:
+---------------------------
+
+# H1 Heading           → Large heading (use once at top)
+## H2 Heading          → Section heading
+### H3 Heading         → Subsection heading
+**bold text**          → Bold text
+*italic text*          → Italic text
+[Link Text](url)       → Hyperlink
+- List item            → Bullet point
+
+
+BEST PRACTICES FOR SEO:
+-----------------------
+
+1. SLUG: Use keywords, keep it short, no special characters
+   Good: "staten-island-closing-guide"
+   Bad: "my-post-123"
+
+2. TITLE: 50-60 characters, include main keyword
+   Good: "Staten Island Real Estate Closing Guide | Pete Weinman"
+   Bad: "Stuff About Closings"
+
+3. DESCRIPTION: 150-160 characters, compelling, includes keyword
+   Good: "Learn the complete real estate closing process in Staten Island with expert guidance from attorney Pete Weinman. Free consultation available."
+
+4. TAGS: 3-7 relevant tags, include:
+   - Location (staten island, new york, etc.)
+   - Topic (closings, title, contracts, etc.)
+   - Type (buyer tips, seller guide, etc.)
+
+5. CONTENT:
+   - Minimum 500 words (1000+ is better)
+   - Use headers to break up content
+   - Include internal links to your services/about page
+   - Add a call-to-action
+   - Answer common questions
+   - Use keywords naturally
+
+6. IMAGES: Always include if possible
+   - Use descriptive alt text
+   - Professional quality
+   - Relevant to content
+
+
+EXAMPLE TOPICS TO WRITE ABOUT:
+-------------------------------
+
+- Common real estate mistakes in Staten Island
+- How to prepare for your closing
+- Understanding title insurance
+- First-time home buyer checklist
+- Selling your home: legal requirements
+- What to look for in a real estate contract
+- Refinancing tips for homeowners
+- Commercial real estate in Staten Island
+- Estate planning and real estate
+- Real estate tax implications
+- HOA and condo law explained
+- Landlord-tenant issues
+- Property disputes and resolutions
+- Real estate fraud prevention
+- Market updates for Staten Island
+
+
+MAINTENANCE:
+------------
+
+The blog posts are stored in a TypeScript file, which means:
+✓ Fast loading (no database queries)
+✓ Version controlled (can see history)
+✓ Easy to backup
+✓ Type-safe (prevents errors)
+
+Later, you can migrate to a CMS like:
+- Contentful
+- Sanity
+- Strapi
+- WordPress (headless)

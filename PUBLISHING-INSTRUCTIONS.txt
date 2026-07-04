@@ -1,0 +1,174 @@
+================================================================================
+STEP-BY-STEP PUBLISHING INSTRUCTIONS
+Blog Post: "7 Staten Island Home Closing Deal Killers"
+================================================================================
+
+IMPORTANT: I (Claude) cannot access your Breezy CMS or publish to your website.
+You will need to complete these steps manually in your CMS.
+
+================================================================================
+STEP 1: PREPARE THE CONTENT
+================================================================================
+
+✓ The HTML file is ready: staten-island-home-closing-deal-killers-with-links.html
+✓ Open this file and copy ALL content (excluding the metadata comments at top)
+
+================================================================================
+STEP 2: LOG INTO BREEZY CMS
+================================================================================
+
+1. Go to: https://statenislandlaw.com/admin (or your Breezy admin URL)
+2. Log in with your credentials
+3. Navigate to: Blog → Create New Post (or similar)
+
+================================================================================
+STEP 3: SET METADATA IN BREEZY
+================================================================================
+
+Copy these values EXACTLY into the corresponding fields:
+
+PAGE TITLE (H1):
+7 Staten Island Home Closing "Deal Killers" Your Real Estate Attorney Can Help You Avoid
+
+SEO TITLE TAG:
+7 Staten Island Home Closing Deal Killers | Real Estate Attorney Staten Island
+
+META DESCRIPTION:
+A Staten Island real estate attorney explains 7 common reasons home closings fall apart — and how the right legal protection keeps your deal on track. Free consultation: (718) 442-2010.
+
+URL SLUG:
+/blog/staten-island-home-closing-deal-killers
+
+AUTHOR:
+Pete Weinman, Esq.
+
+CATEGORIES/TAGS (add all that apply):
+- Real Estate
+- Buyers
+- Sellers
+- Staten Island
+- Home Closing
+- Tips
+
+FEATURED IMAGE ALT TEXT:
+Staten Island real estate attorney reviewing home closing documents
+
+================================================================================
+STEP 4: PASTE THE BLOG CONTENT
+================================================================================
+
+1. In Breezy's editor, switch to "HTML" or "Source Code" mode (if available)
+2. Paste the HTML content from: staten-island-home-closing-deal-killers-with-links.html
+3. Start from the <h1> tag, NOT the metadata comments
+4. Verify all formatting appears correct (preview if possible)
+
+================================================================================
+STEP 5: UPLOAD FEATURED IMAGE
+================================================================================
+
+1. Find or create an image showing: "Staten Island real estate attorney reviewing home closing documents"
+2. In Breezy, find the "Featured Image" upload section
+3. Upload your image
+4. Set Alt Text to: Staten Island real estate attorney reviewing home closing documents
+
+NOTE: You will need to source/create this image separately. I cannot upload images.
+
+================================================================================
+STEP 6: PUBLISH (NOT DRAFT)
+================================================================================
+
+1. Look for "Publish" vs "Save as Draft" option
+2. Click "PUBLISH" to make the post live
+3. Note the final URL once published
+
+================================================================================
+STEP 7: VERIFY PUBLICATION
+================================================================================
+
+1. Visit: https://statenislandlaw.com/blog/staten-island-home-closing-deal-killers
+2. Check that the page loads correctly
+3. Right-click → View Page Source
+4. Verify the title tag appears: <title>7 Staten Island Home Closing Deal Killers | Real Estate Attorney Staten Island</title>
+5. Verify meta description appears: <meta name="description" content="A Staten Island real estate attorney explains...">
+
+================================================================================
+STEP 8: ADD BACKLINKS TO EXISTING POSTS
+================================================================================
+
+You need to edit 5 HIGH PRIORITY existing blog posts to add links TO this new post.
+
+Refer to: cross-linking-recommendations.txt for complete details.
+
+Quick reference for the 5 high-priority posts to update:
+
+1. "Open Permits and Violations: How They Affect Your Staten Island Home Sale"
+   → Add link to new post in conclusion
+
+2. "What Can Delay a Closing for Home Sellers in New York?"
+   → Add link to new post in timeline/contract section
+
+3. "How to Handle Inspection Issues as a Seller in New York"
+   → Add link to new post in conclusion
+
+4. "What Happens During the Title Process When You Buy a Home in New York"
+   → Add link to new post when discussing title complications
+
+5. "The Staten Island Home Buying Process"
+   → Add link to new post in attorney involvement section
+
+For exact suggested text and placement, see: cross-linking-recommendations.txt
+
+================================================================================
+CHECKLIST
+================================================================================
+
+[ ] Logged into Breezy CMS
+[ ] Created new blog post
+[ ] Set page title (H1)
+[ ] Set SEO title tag
+[ ] Set meta description
+[ ] Set URL slug: /blog/staten-island-home-closing-deal-killers
+[ ] Set author: Pete Weinman, Esq.
+[ ] Added all 6 tags/categories
+[ ] Pasted HTML content from file
+[ ] Uploaded featured image
+[ ] Set featured image alt text
+[ ] Published (not drafted)
+[ ] Verified page is accessible at correct URL
+[ ] Verified title tag in page source
+[ ] Verified meta description in page source
+[ ] Added backlink #1: Open Permits post
+[ ] Added backlink #2: Closing Delays post
+[ ] Added backlink #3: Inspection Issues post
+[ ] Added backlink #4: Title Process post
+[ ] Added backlink #5: Home Buying Process post
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+Issue: Formatting looks wrong after pasting HTML
+Fix: Make sure you're in HTML/Source mode, not visual editor
+
+Issue: Internal links not working
+Fix: Verify all URLs start with /blog/ and match existing post slugs
+
+Issue: Page not found at /blog/staten-island-home-closing-deal-killers
+Fix: Check that URL slug is set correctly without extra slashes or spaces
+
+Issue: Title tag not showing correctly
+Fix: Clear browser cache, or check Breezy's SEO settings panel
+
+================================================================================
+NEED HELP?
+================================================================================
+
+If you need me to:
+- Create a different version of the HTML
+- Generate specific backlink text
+- Create a checklist in a different format
+- Help troubleshoot after you've published
+
+Just let me know what you need!
+
+================================================================================

@@ -1,0 +1,9 @@
+{
+  "ignorePatterns": [
+    "app/components/ClickToSource.tsx",
+    "app/components/PoweredByBreezy.tsx",
+    "app/components/ImageEditDialog.tsx",
+    "app/components/CustomBuildErrorOverlay.tsx",
+    "app/components/DevErrorBoundary.tsx"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "weinman-law-offices-3538dc-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0 -p 3007",
+    "dev:turbo": "next dev --turbopack -H 0.0.0.0 -p 3007",
+    "build": "next build --turbopack",
+    "build:force": "next build --turbopack",
+    "build:export": "bash scripts/s3-export-build.sh",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit",
+    "recover": "bash scripts/recover-dev-server.sh",
+    "clean": "rm -rf .next node_modules/.cache && echo 'Cleaned Next.js cache files'"
+  },
+  "dependencies": {
+    "@sentry/nextjs": "^10.16.0",
+    "framer-motion": "^12.23.22",
+    "lucide-react": "^0.545.0",
+    "next": "15.5.3",
+    "posthog-js": "^1.276.0",
+    "posthog-node": "^5.10.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@babel/generator": "^7.25.9",
+    "@babel/parser": "^7.25.9",
+    "@babel/traverse": "^7.25.9",
+    "@babel/types": "^7.25.9",
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.3",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
